@@ -1,10 +1,16 @@
-Foco em programação:
-https://www.youtube.com/watch?v=8jazNUpO3lQ (Reg. Linear com variável única)
-https://www.youtube.com/watch?v=J_LnPL3Qg70 (Reg.Linear com variáveis múltiplas)
+# Regressão Linear
+  ## Foco em programação:
+  - https://www.youtube.com/watch?v=8jazNUpO3lQ (Reg. Linear com variável única)
+  - https://www.youtube.com/watch?v=J_LnPL3Qg70 (Reg.Linear com variáveis múltiplas)
 
-Foco em explicação:
-https://www.youtube.com/watch?v=E5RjzSK0fvY (Geral)
-https://www.youtube.com/watch?v=Q81RR3yKn30 (Regularização)
+## Foco em explicação:
+- https://www.youtube.com/watch?v=E5RjzSK0fvY (Geral)
+- https://www.youtube.com/watch?v=Q81RR3yKn30 (Regularização)
 
-Dastaset extraído de:
+# Random Forest (ligado a Decision Trees [Decision Trees também podem ser utilizadas em problemas de classificação]):
+  ## Foco em Programação: 
+  - https://www.youtube.com/watch?v=ok2s1vV9XW0 (1 variável na aplicação de decisões)
+  - https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html#sklearn.ensemble.RandomForestRegressor
+  
+#Dastaset extraído de:
 https://www.kaggle.com/luismiguelalves/sales-value-of-brazilian-cars
